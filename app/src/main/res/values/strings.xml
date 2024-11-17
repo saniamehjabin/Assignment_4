@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">Assignment_4</string>
+    <string-array name="movie_genres">
+        <item>Action</item>
+        <item>Comedy</item>
+        <item>Drama</item>
+        <item>Horror</item>
+        <item>Thriller</item>
+        <item>Science-Fiction</item>
+    </string-array>
+
+    <string-array name="action_movies">
+        <item>Mad Max: Fury Road</item>
+        <item>John Wick</item>
+        <item>Die Hard</item>
+    </string-array>
+
+    <string-array name="comedy_movies">
+        <item>The Hangover</item>
+        <item>Step Brothers</item>
+        <item>Superbad</item>
+    </string-array>
+
+    <string-array name="drama_movies">
+        <item>The Shawshank Redemption</item>
+        <item>Forrest Gump</item>
+        <item>The Godfather</item>
+    </string-array>
+    <string-array name="horror_movies">
+        <item>The Conjuring</item>
+        <item>Get Out</item>
+        <item>Hereditary</item>
+    </string-array>
+
+    <string-array name="thriller_movies">
+        <item>Se7en</item>
+        <item>Gone Girl</item>
+        <item>The Silence of the Lambs</item>
+    </string-array>
+
+    <string-array name="science_fiction_movies">
+        <item>Interstellar</item>
+        <item>Inception</item>
+        <item>The Matrix</item>
+    </string-array>
+
+    <color name="fire_brick_200">#70CDF6</color>
+    <color name="air_superiority_blue_200">#EC8DAD</color>
+</resources>
